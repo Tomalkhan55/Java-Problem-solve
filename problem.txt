@@ -2,7 +2,7 @@
 ✅ Factorial
 ✅ Palindrome Number
 ✅ Fibonacci Series
-✅ Occurrences
+✅ Occurrences 
 ✅ Perfect Number (1 & 2)
 ✅ Reverse Number
 ✅ Twin Number
@@ -14,7 +14,7 @@
 ✅ Consecutive 3 Integer Check
 ✅ Even & Odd Numbers
 
-✅Grading System
+✅ Grading System
 ✅ Grade Remark
 ✅ Price Calculation (Ticket, Accessories, etc.)
 ✅ ATM Transaction (Withdraw, Deposit, Check Balance)
